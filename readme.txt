@@ -1,6 +1,6 @@
 === Stripe Payment Gateway for Easy Digital Downloads ===
 Contributors: Collizo4sky
-Donate link: https://omnipay.io/downloads/stripe-payment-gateway-for-easy-digital-downloads/
+Donate link: https://omnipay.io/downloads/stripe-easy-digital-downloads/
 Tags: stripe, stripe payment, easy digital downloads, edd, payment, payment gateway, gateway, stripe payment gateway, stripe gateway, credit card, paypal, pay, online payment, shop, e-commerce, ecommerce
 Requires at least: 4.0
 Tested up to: 4.6
