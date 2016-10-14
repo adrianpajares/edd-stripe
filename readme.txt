@@ -1,22 +1,21 @@
 === Stripe Payment Gateway for Easy Digital Downloads ===
 Contributors: Collizo4sky
-Donate link: https://omnipay.io/downloads/paypal-pro-express-checkout-easy-digital-downloads/
-Tags: paypal payment, easy digital downloads, edd, payment, payment gateway, gateway, paypal payment gateway, paypal gateway, credit card, paypal, pay, online payment, shop, e-commerce, ecommerce
+Donate link: https://omnipay.io/downloads/stripe-easy-digital-downloads/
+Tags: stripe, stripe payment, easy digital downloads, edd, payment, payment gateway, gateway, stripe payment gateway, stripe gateway, credit card, paypal, pay, online payment, shop, e-commerce, ecommerce
 Requires at least: 4.0
-Tested up to: 4.6.1
+Tested up to: 4.6
 Stable tag: 1.0
 License: GPL-2.0+
 
-Accept Credit Card and PayPal payments in your Easy Digital Downloads store.
+Accept Credit Card payments in your Easy Digital Downloads store via Stripe.
 
 == Description ==
-A payment gateway that allows e-commerce stores powered by Easy Digital Downloads to process credit card and PayPal payments.
+A payment gateway that allows e-commerce stores powered by Easy Digital Downloads to process Visa, MasterCard, American Express, Discover, JCB, and Diners Club cards payments.
 
 [Click to see a demo](https://omnipay.io/edd-demo/)
 
 ### Features
-* Accept credit card payments.
-* Accept PayPal payments.
+* Accept credit card payment.
 * Well coded with best practices in mind.
 * No technical skills needed.
 * Easy to use and customize.
